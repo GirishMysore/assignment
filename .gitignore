@@ -1,0 +1,6 @@
+!.gitignore.cache
+.idea/
+*.iml
+target
+.target
+**/MANIFEST.mf
